@@ -19,6 +19,15 @@ https://www.youtube.com/watch?v=iT4UOkyI09k
      git branch nombre-de-la-rama idntificador-de-rama-eliminada-anteriormente (Volver a añadir rama eliminada)
      git commit -am (es como hacer git add. y git commit -m al mismo tiempo)
      git push (agregar cambios a repositorio github)
+
+# Clonar repositorio desde github
+
+     git clone URL-del-repositorio-gitHub
+     quitar carpeta git oculta en el repositorio clonado y crear nuevo repositorio git con "git init"
+     git add . (añadir cambios)
+     git commit -m (título de la actcualización)
+     git push (agregar cambios a repositorio github)
+
      
   
 
