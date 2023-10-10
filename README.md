@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=iT4UOkyI09k
      git add . (añadir cambios)
      git reset . (borra actualización anterior)
      git commit -m (título de la actcualización)
-     git checkout -- . (reconstruye todos lo archivos a como estaban en la última actualización)
+     git checkout -- . (reconstruye todos los archivos a como estaban en la última actualización)
      git log (muestra todas las actualizaciones creadas)
      git branch (muestra todas las ramas creadas)
      git commit --amend (editar título de la última actualización / para salir scape :wq!)
